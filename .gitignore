@@ -1,5 +1,6 @@
 .env
 extra.txt
 node_modules
-/artifacts
-/cache
+artifacts
+cache
+collection-react
